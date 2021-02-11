@@ -2,132 +2,132 @@
     <!--COMMON TO ALL VIEWS-->
     <string name="app_name">TET</string>
     <string name="tet_logo_description">TET LOGO</string>
-    <string name="top_message_text">Respect for the Trails. Respect for the Environment. Respect for the Communities we travel through.</string>
-    <string name="footer_tet_website">Website</string>
-    <string name="footer_tet_contribute">Contribute</string>
+    <string name="top_message_text">Kunnia reiteille. Kunnia ympäristölle. Kunnia yhteisöille, joiden halki kuljemme.</string>
+    <string name="footer_tet_website">Sivut</string>
+    <string name="footer_tet_contribute">Osallistu</string>
     <string name="ok">OK</string>
-    <string name="Wrong_Activity_Key">Wrong key for this activity!</string>
-    <string name="Null_Key">No key to validate this activity!</string>
+    <string name="Wrong_Activity_Key">Väärä avain tälle toiminnalle!</string>
+    <string name="Null_Key">Avain puuttuu tämän toiminnan hyväksymiselle!</string>
     <string name="No_Bundle_Extras">No bundle extras for this activity!</string>
-    <string name="cancel">Cancel</string>
-    <string name="Camera">Camera</string>
-    <string name="Local_Gallery_File">Gallery</string>
-    <string name="yes">Yes</string>
-    <string name="later">Later</string>
+    <string name="cancel">Peruuta</string>
+    <string name="Camera">Kamera</string>
+    <string name="Local_Gallery_File">Galleria</string>
+    <string name="yes">Kyllä</string>
+    <string name="later">Myöhemmin</string>
 
     <!--MAIN VIEW-->
     <string name="pending_notification">0</string>
     <!--Button: TET Tracks Browser-->
-    <string name="browser_tet_tracks_title">TET Tracks</string>
-    <string name="browser_button_text">BROWSE</string>
-    <string name="browser_image_description">Browse TET Tracks</string>
+    <string name="browser_tet_tracks_title">TET reitit</string>
+    <string name="browser_button_text">SELAA</string>
+    <string name="browser_image_description">Selaa TET reittejä</string>
     <!--Button: Report Route Problems-->
-    <string name="report_route_problem_title">Route Problem</string>
-    <string name="report_button_text">REPORT</string>
-    <string name="report_route_image_description">Report Route Problems</string>
+    <string name="report_route_problem_title">Ongelma reitissä</string>
+    <string name="report_button_text">ILMOITA</string>
+    <string name="report_route_image_description">Ilmoita ongelma reitissä</string>
     <!--Button: POIs-->
-    <string name="poi_title">Coming Soon</string>
-    <string name="poi_button">SOON</string>
-    <string name="poi_image_description">Points of Interest</string>
+    <string name="poi_title">Tulossa pian</string>
+    <string name="poi_button">PIAN</string>
+    <string name="poi_image_description">Kiinnostavat kohteet</string>
     <!--Button: Community / Share-->
-    <string name="join_title">Community</string>
-    <string name="join_button_text">ENGAGE</string>
-    <string name="join_community_image_description">Online Community</string>
+    <string name="join_title">Yhteisö</string>
+    <string name="join_button_text">LIITY</string>
+    <string name="join_community_image_description">Online yhteisö</string>
     <!--Splash Message-->
-    <string name="tet_splash_message">Europe\'s Epic Motorcycle Adventure</string>
-    <string name="touch_to_continue">Tap to Continue</string>
+    <string name="tet_splash_message">Euroopan eeppinen moottoripyöräseikkailu</string>
+    <string name="touch_to_continue">Täppää jatkaaksesi</string>
     <!--END OF MAIN VIEW-->
 
     <!--COMMUNITY VIEW-->
     <!--Button: Facebook Group-->
-    <string name="facebook_tet_group_title">Facebook TET Group</string>
+    <string name="facebook_tet_group_title">Facebookin TET ryhmä</string>
     <string name="facebook_icon_image_description">TET Facebook Image Icon</string>
-    <string name="facebook_description">Meet other TET members and share your experiences</string>
+    <string name="facebook_description">Tapaa muita TET jäseniä ja jaa kokemuksiasi</string>
     <!--Button: Online Forum Page-->
-    <string name="tet_forum_title">TET Online Forum</string>
-    <string name="tet_forum_description">The place for guides, reports and healthy discussions</string>
-    <string name="tet_forum_icon_image_description">The official TET online forum</string>
-    <string name="tet_contribute_image_description">TET Contribution</string>
+    <string name="tet_forum_title">TET keskustelu</string>
+    <string name="tet_forum_description">Paikka oppaille, reportaaseille ja hyvälle keskustelulle</string>
+    <string name="tet_forum_icon_image_description">Virallinen TET keskustelupalsta</string>
+    <string name="tet_contribute_image_description">TET osallistuminen</string>
     <!--Button: Code of Conduct-->
     <string name="tet_code_icon_description">Code of Conduct</string>
     <string name="tet_code_title">Code of Conduct</string>
     <string name="tet_code_description">Read about the TET Code of Conduct in the website</string>
     <!--Button: Integrations-->
-    <string name="tet_integration_title">TET Integrated Apps</string>
-    <string name="tet_integration_description">Android Apps that integrate the TET App features</string>
+    <string name="tet_integration_title">TET-yhteensopivat sovellukset</string>
+    <string name="tet_integration_description">Android-sovellukset, jotka hyödyntävät TET-sovelluksen toimintoja</string>
 
     <!--Integration VIEW-->
-    <string name="integration_title">Apps that Integrate the TET App</string>
-    <string name="integration_description">When a app integrates with the TET App API the user experience improves. It´s simple, fast, seamlessly!</string>
-    <string name="integration_example_video">EXAMPLE VIDEO</string>
-    <string name="integration_contact">CONTACT US</string>
-    <string name="integration_add_yours">Do you develop Apps for navigation or otherwise relevant to the TET? Would you like to integrate our API? Touch contact us and tell us about it! Also check the example video.</string>
-    <string name="download">DOWNLOAD</string>
-    <string name="drivemode_title">Drive Mode Dashboard</string>
-    <string name="drivemode_description">A highly customizable dashboard for your motorcycle! Create trip logs, navigate GPX files with offline maps, record GPX files, save and view locations, get detailed weather information and much, much more.\n\nDeveloped by the creator of the TET app, it aims to become the ultimate TET solution!</string>
+    <string name="integration_title">Sovellukset, jotka hyödyntävät TET-sovellusta</string>
+    <string name="integration_description">Kun sovellus liitetään TET-sovelluksen rajapintaan, käyttökokemus paranee. Yksinkertaista, nopeaa ja saumatonta!</string>
+    <string name="integration_example_video">VIDEO ESIMERKISTÄ</string>
+    <string name="integration_contact">OTA YHTEYTTÄ</string>
+    <string name="integration_add_yours">Kehitätkö navigointi- tai muita sovelluksia, jotka liittyvät TET:iin? Haluaisitko liittyä meidän rajapintaamme? Täppää Ota yhteyttä ja kerro meille! Katso myös esimerkkivideo aiheesta.</string>
+    <string name="download">LATAA</string>
+    <string name="drivemode_title">Ajomoodin kojelauta</string>
+    <string name="drivemode_description">Todella muokattava kojelauta moottoripyörällesi! Tee reissulokeja, navigoi GPX-reittitiedostoilla offline-kartoissa, nauhoita GPX-reittitiedostoja, tallena ja näytä kohteita, hae tarkat säätiedot ja paljon, paljon muuta.\n\nKojelauta on TET-sovelluksen tekijän kehittämä ja sen on tarkoitus olla paras ratkaisu TET:iä varten!</string>
 
     <!--CONTRIBUTE VIEW-->
-    <string name="contribute_title">Make your first fuel stop right here&#8230;</string>
-    <string name="contribute_subtitle">The Trans Euro Trail® is fuelled by passion, maintained by riders and supported by YOU. Best of all, it’s free of charge and intends to stay that way!</string>
-    <string name="contribute_text_button">READ MORE</string>
-    <string name="contribute_buy_merch">BUY MERCH</string>
-    <string name="contribute_app_developer">CONTRIBUTE APP</string>
-    <string name="contribute_options_text">These are the ways you can help the TET Project:</string>
+    <string name="contribute_title">Tee ensimmäinen stoppisi täällä&#8230;</string>
+    <string name="contribute_subtitle">The Trans Euro Trail® on intohimolla etenevä, motoristien ylläpitämä ja SINUN tukema projekti. Ja mikä parasta, se on täysin ilmainen ja pysyy sellaisena!</string>
+    <string name="contribute_text_button">LUE LISÄÄ</string>
+    <string name="contribute_buy_merch">OSTA TUOTTEITA</string>
+    <string name="contribute_app_developer">LIITY KEHITTÄJÄKSI</string>
+    <string name="contribute_options_text">Voit auttaa TET-projektia eri tavoin:</string>
     <!--Merch SubView-->
-    <string name="merch_title">Official TET Merchandising</string>
+    <string name="merch_title">Viralliset TET-tuotteet</string>
     <string name="merch_subtitle">Spread the TET vibes with our Ts and heavy duty bike stickers, or splash out on the ADV Spec Linesman trail riding jacket, developed especially for the TET.</string>
-    <string name="t_shirt_image_description">The Official TET Tshirt</string>
-    <string name="t_shirt_title">Trans Euro Trail® T-shirt</string>
-    <string name="t_shirt_description">Show your love by wearing our logo! \n\n£24.90 + postage</string>
-    <string name="Buy_Tshirt_button_text">BUY</string>
-    <string name="sticker_title">Trans Euro Trail® Sticker</string>
-    <string name="sticker_description">Your motorcycle needs this so much! \n\n£2.40 + postage</string>
-    <string name="sticker_image_description">The official TET Sticker</string>
-    <string name="jacket_title">ADV Spec Linesman Jacket</string>
-    <string name="jacket_image_description">The official ADV Linesman Jacket</string>
-    <string name="jacket_description">Windproof/breathable with Du Pont™ Kevlar® \n\n£249 + postage</string>
+    <string name="t_shirt_image_description">Virallinen TET T-paita</string>
+    <string name="t_shirt_title">Trans Euro Trail® T-paita</string>
+    <string name="t_shirt_description">Show your love by wearing our logo! \n\n£24.90 + postikulut</string>
+    <string name="Buy_Tshirt_button_text">OSTA</string>
+    <string name="sticker_title">Trans Euro Trail® tarra</string>
+    <string name="sticker_description">Your motorcycle needs this so much! \n\n£2.40 + postikulut</string>
+    <string name="sticker_image_description">Virallinen TET tarra</string>
+    <string name="jacket_title">ADV Spec Linesman takki</string>
+    <string name="jacket_image_description">Virallinen ADV Linesman takki</string>
+    <string name="jacket_description">Materiaalina tuulenpitävä/hengittävä Du Pont™ Kevlar® \n\n£249 + postikulut</string>
 
     <!--REPORT TRACK PROBLEM VIEW-->
-    <string name="title_activity_maps">Map</string>
-    <string name="marker_report_location">Report This Location</string>
+    <string name="title_activity_maps">Kartta</string>
+    <string name="marker_report_location">Raportoi tämä kohde</string>
     <string name="map_instructions">Touch and hold anywhere on the map to place a marker in that location. Click the crosshair icon on the top right corner to jump to your current location. If you are in offline mode, please make sure you are physically located at the problem location and have a valid GPS signal.</string>
-    <string name="error_fetching_countryname_title">Error fetching country name</string>
+    <string name="error_fetching_countryname_title">Ongelma maan nimen hakemisessa</string>
     <string name="error_fetching_countryname_message">We are unable to fetch your country name, please manually select the country on the next step.</string>
-    <string name="report_second_step_next">NEXT STEP</string>
-    <string name="report_step2_title">Report Track Problem</string>
-    <string name="report_location_text">Coordinates:</string>
-    <string name="report_finish_next">NEXT STEP</string>
-    <string name="linesman_name">Linesman:</string>
-    <string name="linesman_email">e-mail</string>
-    <string name="problem_input_description">Touch here to, write a small description about the problem</string>
-    <string name="problem_input_box_title">Report Description</string>
-    <string name="Track_Country_Text">TET Track Country:</string>
-    <string name="Track_Problem_Text">TET Track Problem Type:</string>
-    <string name="Error_Starting_Report">Error starting Report</string>
-    <string name="ConfirmCountry">Please confirm the country name</string>
+    <string name="report_second_step_next">SEURAAVA VAIHE</string>
+    <string name="report_step2_title">Ilmoita ongelma reitissä</string>
+    <string name="report_location_text">Koordinaatit:</string>
+    <string name="report_finish_next">SEURAAVA VAIHE</string>
+    <string name="linesman_name">Linjamies:</string>
+    <string name="linesman_email">sähköposti</string>
+    <string name="problem_input_description">Täppää tästä ja kirjoita lyhyt kuvaus ongemalsta</string>
+    <string name="problem_input_box_title">Raportin kuvaus</string>
+    <string name="Track_Country_Text">TET-reitin maa:</string>
+    <string name="Track_Problem_Text">TET-reitin ongelman tyyppi:</string>
+    <string name="Error_Starting_Report">Virhe raportin aloittamisessa</string>
+    <string name="ConfirmCountry">Ole hyvä, vahvista maan nimi</string>
     <string name="Manually_Select_Country">Unable to automatically detect the country name. Please manually select the country for the TET Track you are reporting!</string>
-    <string name="submit_title_text">Submit Track Problem Report</string>
-    <string name="report_resume_text">Selected Track:</string>
-    <string name="the_problem_is">Problem Type:</string>
-    <string name="problem_at">Problem Coordinates:</string>
-    <string name="report_submit">SUBMIT</string>
-    <string name="Add_Photo_Title">Add Photo to Report:</string>
-    <string name="No_Camera_Permission_Title">Camera Permission Required</string>
+    <string name="submit_title_text">Ilmoita ongelma reitissä</string>
+    <string name="report_resume_text">Valittu reitti:</string>
+    <string name="the_problem_is">Ongelman tyyppi:</string>
+    <string name="problem_at">Ongelman koordinaatit:</string>
+    <string name="report_submit">LÄHETÄ</string>
+    <string name="Add_Photo_Title">Lisää kuva raporttiin:</string>
+    <string name="No_Camera_Permission_Title">Kameran käyttöoikeus tarvitaan</string>
     <string name="No_Camera_Permission_Message">To use your camera you need to accept the camera permission request!</string>
-    <string name="camera_request_again">Request Again</string>
-    <string name="no_camera_available_title">No Camera Available</string>
+    <string name="camera_request_again">Pyydä uudestaan</string>
+    <string name="no_camera_available_title">Kamera ei ole saatavilla</string>
     <string name="no_camera_available_message">Either your device does not have a camera or you have no camera app installed!</string>
-    <string name="photo_to_be_submited">Photo to Send:</string>
-    <string name="photo_source">Select Photo Source</string>
+    <string name="photo_to_be_submited">Lähetettävä kuva:</string>
+    <string name="photo_source">Valitse kuvan lähde</string>
     <string name="photo_source_message">Take a photo using your camera or select a local file from your gallery?</string>
-    <string name="report_submited_success_title">Your report was delivered!</string>
+    <string name="report_submited_success_title">Raporttisi lähetettiin eteenpäin!</string>
     <string name="report_submited_success_message">Thank you for submitting your track problem report, we will take action as soon as possible.</string>
-    <string name="Photo_Upload_Progress">Photo Upload</string>
-    <string name="error_restart_title">Something went wrong!</string>
-    <string name="error_restart_message">Please try creating a report again!</string>
-    <string name="error_upload_later_title">Could not connect to server</string>
+    <string name="Photo_Upload_Progress">Kuvan lataus</string>
+    <string name="error_restart_title">Jotain meni pieleen!</string>
+    <string name="error_restart_message">Ole hyvä, yritä raportin tekemistä uudestaan!</string>
+    <string name="error_upload_later_title">Palvelimeen ei saada yhteyttä</string>
     <string name="error_upload_later_message">This log will be saved and it will be submitted when it´s possible to connect to the server.</string>
-    <string name="No_Internet_title">Offline Report Mode</string>
+    <string name="No_Internet_title">Offline raportointi</string>
     <string name="No_Internet_message">There is no Internet connection, but It´s fine, the map may not properly be displayed but your location will still be captured. The log will also be saved as a Pending Report which will be sent when you have Internet access.</string>
     <string name="pending_report_title_1">You have</string>
     <string name="pending_report_title_2">pending reports</string>
